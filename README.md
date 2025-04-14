@@ -35,13 +35,13 @@
 
 - **b24ui**: Набор компонентов для разработки веб-приложений на основе REST API Bitrix24. Реализован на Nuxt и Vue, включает переиспользуемые UI-компоненты для ускорения разработки.
 
-  [Репозиторий на GitHub](https://github.com/bitrix24/b24ui). Подробнее — в [документации](https://bitrix-tools.github.io/b24ui/)
+  [Репозиторий на GitHub](https://github.com/bitrix24/b24ui). Подробнее — в [документации](https://bitrix24.github.io/b24ui/)
 
 ### Дизайн-токены
 
 - **b24style**: Набор дизайн-токенов для Bitrix24 UI Kit. Позволяет создавать интерфейсы, визуально совместимые с Bitrix24, используя utility-классы Tailwind CSS.
 
-  [Репозиторий на GitHub](https://github.com/bitrix24/b24style). Подробнее — в [документации](https://bitrix-tools.github.io/b24ui/)
+  [Репозиторий на GitHub](https://github.com/bitrix24/b24style). Подробнее — в [документации](https://bitrix-tools.github.io/b24style/)
 
 ### Иконки
 
