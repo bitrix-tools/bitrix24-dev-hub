@@ -33,7 +33,7 @@
 
 ### Bitrix24 UI Kit
 
-- **b24ui**: Набор компонентов для разработки веб-приложений на основе REST API Bitrix24. Реализован на Nuxt и Vue, включает переиспользуемые UI-компоненты для ускорения разработки.
+- **b24ui**: Набор компонентов для разработки [веб-приложений на основе REST API Bitrix24](https://apidocs.bitrix24.ru/api-reference/widgets/ui-kit/index.html). Реализован на Nuxt и Vue, включает переиспользуемые UI-компоненты для ускорения разработки.
 
   [Репозиторий на GitHub](https://github.com/bitrix24/b24ui). Подробнее — в [документации](https://bitrix24.github.io/b24ui/)
 
